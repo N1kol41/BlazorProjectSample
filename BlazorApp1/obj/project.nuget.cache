@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y65zFTlFGt1+D5WZ9g1XAL5Gkc42czX1lVFC4+hMktdBNDoRM0HL6fk6RSDvyEFpHPDIiWB6AQHe0dh5QD3+og==",
+  "success": true,
+  "projectFilePath": "C:\\SRC_\\Equity IT Projects\\alloca-main\\src\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vtbcb-support/NuGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
